@@ -8,7 +8,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x396a817c3E18DA8F00AB028b8E4924Aa3Ae54Bdd
 ```
 
 ## Steps
@@ -16,11 +16,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+https://github.com/ditsyandrea22/deploy-a-smart-contract.git
 ```
 
 ```
-cd hardhat-deploy-contract
+cd deploy-a-smart-contract
 ```
 
 ### 2. Install Dependency
