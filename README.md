@@ -109,8 +109,8 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [ditsyandrea22]([https://github.com/Mnuralim](https://github.com/ditsyandrea22))
+github : [ditsyandrea22]((https://github.com/ditsyandrea22))
 twitter : @crypto_ditsy
 telegram : @crosmail
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
+//0x396a817c3E18DA8F00AB028b8E4924Aa3Ae54Bdd//
